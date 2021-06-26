@@ -4,6 +4,6 @@ import Edit from './edit';
 import save from './save';
 
 registerBlockType( 'create-block/boilerplate', {
-edit: Edit,
+	edit: Edit,
 	save,
 } );
