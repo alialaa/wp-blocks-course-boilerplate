@@ -35,7 +35,7 @@
 		"@wordpress/prettier-config": "^1.1.1",
 		"@wordpress/scripts": "^19.2.1",
 		"@wordpress/stylelint-config": "^19.1.0",
-		"eslint-config-prettier": "^7.2.0",
+		"eslint-config-prettier": "^8.3.0",
 		"husky": "^6.0.0",
 		"lint-staged": "^11.0.0"
 	}
