@@ -26,17 +26,17 @@
 		"*.scss": "npx stylelint --fix"
 	},
 	"dependencies": {
-		"@wordpress/block-editor": "^8.0.3",
+		"@wordpress/block-editor": "^8.0.11",
 		"@wordpress/blocks": "^11.1.4",
 		"@wordpress/i18n": "^4.2.4"
 	},
 	"devDependencies": {
 		"@wordpress/eslint-plugin": "^9.3.0",
 		"@wordpress/prettier-config": "^1.1.1",
-		"@wordpress/scripts": "^19.2.1",
+		"@wordpress/scripts": "^19.2.2",
 		"@wordpress/stylelint-config": "^19.1.0",
 		"eslint-config-prettier": "^8.3.0",
-		"husky": "^6.0.0",
-		"lint-staged": "^11.0.0"
+		"husky": "^7.0.4",
+		"lint-staged": "^12.1.3"
 	}
 }
